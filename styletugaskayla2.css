@@ -1,0 +1,49 @@
+* {
+	font-family: Papyrus;
+}
+h1, h2 {
+	color: #4B3D2F;
+}
+
+body {
+	background-image: url("/Tugas/Tugas2/images/bgweb.jpeg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+h1 {
+	background-color: #f9d0a9;
+
+}
+p {
+	text-align: justify;
+	font-size: 15px;
+	color: black;
+	float: left;
+}
+h2 {
+	background-color: #ddb997;
+
+}
+div {
+	padding: 50px;
+	padding-bottom: 350px;
+	background-color: rgba(300, 300, 300, 0.8);
+	margin-top: 100px;
+	margin-left: 20px;
+	margin-right: 50px;
+	margin-bottom: 150px;
+}
+
+img {
+	width: 150px;
+	height: 200px;
+	margin: 5px;
+}
+
+.border{
+	border-style: dashed;
+	border-color: darkbrown;
+	border-radius: 10px;
+}
